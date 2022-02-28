@@ -1,0 +1,9 @@
+-- Se agregaron dos campos en la tabla usuarios de la base de datos NOMINA_MASTER | Se debe documentar
+-- la alteración de esta tabla para pasarlo al PC de la empresa.
+
+-- Se crearon algunas tablas en la base de datos NOMINA_MASTER | HECHO
+
+-- Se insertaron informaciones en las tablas que fueron agregadas. | SE DEBE DOCUMENTAR LA INFORMACION
+-- QUE TIENE HASTA EL MOMENTO.
+
+-- Se debe guardar.
